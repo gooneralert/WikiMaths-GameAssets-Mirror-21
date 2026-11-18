@@ -1,0 +1,75 @@
+{
+  "slug": "parappa-the-rapper-2",
+  "title": "Parappa The Rapper 2",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/parappa2/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/parappa2/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/parappa2.webp",
+  "baseUrl": "https://truffled.lol/games/parappa2/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/parappa2/index.html",
+  "status": "done",
+  "sizeBytes": 89908951,
+  "assetCount": 10,
+  "known404": [
+    "https://truffled.lol/manifest.json",
+    "https://truffled.lol/logo192.png",
+    "https://truffled.lol/games/parappa2/static/js/Play.js",
+    "https://truffled.lol/games/parappa2/static/js/.43d6cf5f.chunk.js"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/manifest.json",
+      "error": "HTTP 404 for https://truffled.lol/manifest.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/logo192.png",
+      "error": "HTTP 404 for https://truffled.lol/logo192.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/parappa2/static/js/Play.js",
+      "error": "HTTP 404 for https://truffled.lol/games/parappa2/static/js/Play.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/parappa2/static/js/.43d6cf5f.chunk.js",
+      "error": "HTTP 404 for https://truffled.lol/games/parappa2/static/js/.43d6cf5f.chunk.js",
+      "status": 404
+    },
+    {
+      "url": "(crawl)",
+      "error": "crawl stalled; abandoned hung downloads",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T16:13:58.772Z",
+  "verifiedAt": "2026-11-17T16:14:08.479Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 2,
+    "title": "Play!.js",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 640,
+      "height": 480
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.0062,
+    "rendered": true
+  }
+}

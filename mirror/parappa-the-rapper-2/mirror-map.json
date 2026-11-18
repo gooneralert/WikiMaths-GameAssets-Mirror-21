@@ -1,0 +1,12 @@
+{
+  "/favicon.ico": "/__site__/favicon.ico",
+  "/games/parappa2/Play.wasm": "/Play.wasm",
+  "/games/parappa2/index.html": "/index.html",
+  "/games/parappa2/static/css/main.5a525eca.css": "/static/css/main.5a525eca.css",
+  "/games/parappa2/static/js/main.fb6e8aea.js": "/static/js/main.fb6e8aea.js",
+  "https://truffled.lol/favicon.ico": "/__site__/favicon.ico",
+  "https://truffled.lol/games/parappa2/Play.wasm": "/Play.wasm",
+  "https://truffled.lol/games/parappa2/index.html": "/index.html",
+  "https://truffled.lol/games/parappa2/static/css/main.5a525eca.css": "/static/css/main.5a525eca.css",
+  "https://truffled.lol/games/parappa2/static/js/main.fb6e8aea.js": "/static/js/main.fb6e8aea.js"
+}
